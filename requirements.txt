@@ -3,5 +3,6 @@ torch
 omegaconf==2.0.6
 PyYAML==5.4.1
 fairseq @ git+https://github.com/facebookresearch/fairseq.git@main
-fairseq-signals @ git+https://github.com/Jwoo5/fairseq-signals.git@main
+fairseq-signals @ git+https://github.com/Jwoo5/fairseq-signals.git@master
+
 flask

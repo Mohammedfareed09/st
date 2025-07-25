@@ -1,5 +1,7 @@
+fairseq
+fairseq-signals @ git+https://github.com/Jwoo5/fairseq-signals.git
+omegaconf
+numpy
+torch
 flask
 flask-cors
-torch
-numpy
-omegaconf==2.3.0

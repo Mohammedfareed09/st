@@ -1,7 +1,6 @@
-fairseq
-fairseq-signals @ git+https://github.com/Jwoo5/fairseq-signals.git
-omegaconf
-numpy
+pip<24.0
 torch
+omegaconf==2.0.6
 flask
-flask-cors
+fairseq @ git+https://github.com/facebookresearch/fairseq.git@main
+fairseq-signals @ git+https://github.com/Jwoo5/fairseq-signals.git@main

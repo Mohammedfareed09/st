@@ -1,6 +1,7 @@
 pip<24.0
 torch
 omegaconf==2.0.6
-flask
-fairseq @ git+https://github.com/facebookresearch/fairseq.git@main
+PyYAML==5.4.1
+fairseq @ git+https://github.com/facebookresearch/fairseq.git@master
 fairseq-signals @ git+https://github.com/Jwoo5/fairseq-signals.git@main
+flask

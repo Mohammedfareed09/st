@@ -2,3 +2,4 @@ flask
 flask-cors
 torch
 numpy
+omegaconf==2.3.0
